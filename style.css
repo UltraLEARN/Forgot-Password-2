@@ -23,7 +23,7 @@
     color: black;
 }
 .text2{
-    top: 19vw;
+    top: 21vw;
     text-align: center;
 left: 8vw;}
 .button1{
@@ -245,7 +245,8 @@ form>p{
         left: 180px;
     }
     .text2{
-        top:12vw
+        top:21vw;
+        font-size:1vw
     }
 
 
